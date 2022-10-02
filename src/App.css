@@ -32,6 +32,10 @@ body {
   transform: translate(-50%, 0);
 }
 
+.id {
+  display: inline;
+}
+
 .quote {
   width: 85%;
   font-size: 36px;
